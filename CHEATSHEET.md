@@ -1,6 +1,6 @@
 # 📋 Lab01 Cheat Sheet — The Profiling & EDA One-Pager
 
-**The Cozy Bean · M1-W3-Lab01 · Apeiron AI Training Academy**
+**The Cozy Bean · M1-W3-Lab01 · Aperion AI Training Academy**
 
 *Print this one. It is the routine you will run on every table for the rest of your career.*
 
@@ -381,4 +381,5 @@ with open("findings.txt", "w", encoding="utf-8") as f:
 
 ---
 
-*Apeiron AI Training Academy · M1-W3-Lab01 · "Boundless Possibilities, Infinite Potential"*
+*Aperion AI Training Academy · M1-W3-Lab01 · "Boundless Possibilities, Infinite Potential"*
+

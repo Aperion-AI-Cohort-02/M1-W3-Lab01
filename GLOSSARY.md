@@ -1,6 +1,6 @@
 # 📖 Lab01 Glossary — Week 3, Session 1
 
-**The Cozy Bean · M1-W3-Lab01 · Apeiron AI Training Academy**
+**The Cozy Bean · M1-W3-Lab01 · Aperion AI Training Academy**
 
 *Every new word this week, one friendly line each. Alphabetical.*
 
@@ -163,4 +163,5 @@ How many of each value are in a column, biggest first. Add `.sort_index()` for l
 
 ---
 
-*Apeiron AI Training Academy · M1-W3-Lab01 · "Boundless Possibilities, Infinite Potential"*
+*Aperion AI Training Academy · M1-W3-Lab01 · "Boundless Possibilities, Infinite Potential"*
+

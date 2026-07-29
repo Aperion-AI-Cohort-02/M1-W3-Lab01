@@ -1,7 +1,7 @@
 # ☕ M1-W3-Lab01 — Due Diligence: Learning to Interrogate Data
 
 ### Data Profiling, EDA, Outliers & Scraping
-**Apeiron AI Training Academy** · *"Boundless Possibilities, Infinite Potential"*
+**Aperion AI Training Academy** · *"Boundless Possibilities, Infinite Potential"*
 
 | | |
 |---|---|
@@ -2491,5 +2491,6 @@ The evidence pack is due on Mrs Adeyemi's desk. The second branch opens in the s
 
 ---
 
-*Apeiron AI Training Academy · Module 1: AI/ML Fundamentals · Week 3 · Lab01*
+*Aperion AI Training Academy · Module 1: AI/ML Fundamentals · Week 3 · Lab01*
 *"Boundless Possibilities, Infinite Potential"*
+

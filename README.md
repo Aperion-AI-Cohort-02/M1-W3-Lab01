@@ -45,7 +45,7 @@ The link from this lab back to Week 2's cheat sheet is written as `../../Week2/L
 
 ### 1.2 Copy your repo's address
 
-Click the green **`< > Code`** button on this repo's page, select the **HTTPS** tab, and click the 📋 copy icon. You get something like `https://github.com/AperionAI-2026/M1-W3-Lab01-B02-<your-username>.git`. **Use your own address**, not a classmate's.
+Click the green **`< > Code`** button on this repo's page, select the **HTTPS** tab, and click the 📋 copy icon. You get something like `https://github.com/AperionAI-2026/M1-W3-Lab01-<your-username>.git`. **Use your own address**, not a classmate's.
 
 ### 1.3 Clone it into `Week3/Lab01`
 
